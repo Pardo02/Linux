@@ -1,3 +1,4 @@
+package proyecto1;
 public class Lista{
     Nodo head = null;
     public void agregarAlFinal(int data){

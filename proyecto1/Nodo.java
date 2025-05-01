@@ -1,3 +1,4 @@
+
 public class Nodo{
     private int data;
     private Nodo next;
