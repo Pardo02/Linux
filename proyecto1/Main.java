@@ -6,7 +6,7 @@ public class Main {
         
         int[] datos = {14, 55, 22, 65, 78};
         for (int dato : datos){
-            lista.agregarAlFinal(dato);
+            lista.agregarOrdenado(dato);
      
         }
 
