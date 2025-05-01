@@ -1,4 +1,3 @@
-package proyecto1;
 public class Lista{
     Nodo head = null;
 
